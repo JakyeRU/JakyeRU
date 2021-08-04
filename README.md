@@ -111,6 +111,15 @@
   
 </div>
 
+## Testing
+<div align="center">
+  
+  <a href="https://www.cypress.io/">
+    <img src="https://img.shields.io/badge/-cypress-17202C?style=for-the-badge&logo=cypress" alt="Cypress">
+  </a>
+  
+</div>
+
 ## Deployment
 <div align="center">
   
