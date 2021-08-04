@@ -36,7 +36,7 @@
   </a>
   
   <a href="https://nodejs.org/en/">
-    <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/node-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node">
   </a>
   
   <a href="https://www.electronjs.org/">
@@ -44,7 +44,7 @@
   </a>
   
   <a href="https://vuejs.org/">
-    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js">
+    <img src="https://img.shields.io/badge/vue-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue">
   </a>
   
   <a href="https://jquery.com/">
@@ -52,7 +52,7 @@
   </a>
   
   <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
+    <img src="https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express">
   </a>
   
   <a href="https://getbootstrap.com/">
