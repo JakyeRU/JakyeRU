@@ -40,7 +40,7 @@
   </a>
   
   <a href="https://www.electronjs.org/">
-    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron">
+    <img src="https://img.shields.io/badge/Electron-2F3241?style=for-the-badge&logo=Electron&logoColor=9FEAF9" alt="Electron">
   </a>
   
   <a href="https://vuejs.org/">
