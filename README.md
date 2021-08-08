@@ -90,7 +90,7 @@
 <div align="center">
   
   <a href="https://www.mysql.com/">
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/mysql-F29111.svg?style=for-the-badge&logo=mysql&logoColor=00758F" alt="MySQL">
   </a>
   
   <a href="https://www.postgresql.org/">
