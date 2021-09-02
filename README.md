@@ -1,4 +1,9 @@
-<img align="center" src="https://github.com/jakyeru/jakyeru/blob/master/dino.gif">
+<div align="center">
+  <a href="#">
+    <img src="https://github.com/jakyeru/jakyeru/blob/master/dino.gif">
+  </a>
+</div>
+
 
 <hr>
 
