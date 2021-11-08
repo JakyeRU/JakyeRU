@@ -181,6 +181,8 @@
   
 </div>
 
+## 🕐 Latest Activity
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/2) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
 2. 🗣 Commented on [#2](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/2) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
