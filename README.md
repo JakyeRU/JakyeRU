@@ -182,3 +182,9 @@
 </div>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/2) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
+2. 🗣 Commented on [#2](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/2) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
+3. ❗️ Closed issue [#1](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/1) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
+4. 🗣 Commented on [#1](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/1) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
+5. 🗣 Commented on [#1](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/1) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
+<!--END_SECTION:activity-->
