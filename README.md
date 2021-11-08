@@ -129,6 +129,10 @@
     <img src="https://img.shields.io/badge/-cypress-17202C?style=for-the-badge&logo=cypress" alt="Cypress">
   </a>
   
+  <a href="https://phpunit.de/">
+    <img src="https://scule.org/assets/badges/phpunit.svg" alt="PHPUnit">
+  </a>
+  
 </div>
 
 ## Deployment
