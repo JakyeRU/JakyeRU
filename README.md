@@ -154,6 +154,10 @@
     <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
   </a>
   
+  <a href="https://vercel.com/">
+    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  </a>
+  
 </div>
 
 ## Editors
