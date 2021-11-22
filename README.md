@@ -1,14 +1,5 @@
 <div align="center">
   <a href="#">
-    <img src="https://github.com/jakyeru/jakyeru/blob/master/dino.gif">
-  </a>
-</div>
-
-
-<hr>
-
-<div align="center">
-  <a href="#">
     <img src="https://github-readme-stats.vercel.app/api?username=jakyeru&show_icons=true&theme=dark&count_private=true">
   </a>
 </div>
