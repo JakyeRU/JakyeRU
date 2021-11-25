@@ -183,9 +183,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/2) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
-2. 🗣 Commented on [#2](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/2) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
-3. ❗️ Reopened issue [#2](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/2) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
+1. 🗣 Commented on [#1](https://github.com/JakyeRU/Larascord/issues/1) in [JakyeRU/Larascord](https://github.com/JakyeRU/Larascord)
+2. ❗️ Closed issue [#1](https://github.com/JakyeRU/Larascord/issues/1) in [JakyeRU/Larascord](https://github.com/JakyeRU/Larascord)
+3. ❗️ Closed issue [#2](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/2) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
 4. 🗣 Commented on [#2](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/2) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
-5. ❗️ Closed issue [#2](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/2) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
+5. ❗️ Reopened issue [#2](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/2) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
 <!--END_SECTION:activity-->
