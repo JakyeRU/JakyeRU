@@ -183,9 +183,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/JakyeRU/Larascord/issues/1) in [JakyeRU/Larascord](https://github.com/JakyeRU/Larascord)
-2. ❗️ Closed issue [#1](https://github.com/JakyeRU/Larascord/issues/1) in [JakyeRU/Larascord](https://github.com/JakyeRU/Larascord)
-3. ❗️ Closed issue [#2](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/2) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
-4. 🗣 Commented on [#2](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/2) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
-5. ❗️ Reopened issue [#2](https://github.com/JakyeRU/Laravel-Discord-Authentication/issues/2) in [JakyeRU/Laravel-Discord-Authentication](https://github.com/JakyeRU/Laravel-Discord-Authentication)
+1. 🎉 Merged PR [#8](https://github.com/JakyeRU/Larascord/pull/8) in [JakyeRU/Larascord](https://github.com/JakyeRU/Larascord)
+2. 💪 Opened PR [#8](https://github.com/JakyeRU/Larascord/pull/8) in [JakyeRU/Larascord](https://github.com/JakyeRU/Larascord)
+3. 🎉 Merged PR [#7](https://github.com/JakyeRU/Larascord/pull/7) in [JakyeRU/Larascord](https://github.com/JakyeRU/Larascord)
+4. 💪 Opened PR [#7](https://github.com/JakyeRU/Larascord/pull/7) in [JakyeRU/Larascord](https://github.com/JakyeRU/Larascord)
+5. 🎉 Merged PR [#6](https://github.com/JakyeRU/Larascord/pull/6) in [JakyeRU/Larascord](https://github.com/JakyeRU/Larascord)
 <!--END_SECTION:activity-->
