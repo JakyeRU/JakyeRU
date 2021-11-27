@@ -179,13 +179,3 @@
   </a>
   
 </div>
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/JakyeRU/Larascord/pull/12) in [JakyeRU/Larascord](https://github.com/JakyeRU/Larascord)
-2. 💪 Opened PR [#12](https://github.com/JakyeRU/Larascord/pull/12) in [JakyeRU/Larascord](https://github.com/JakyeRU/Larascord)
-3. 🎉 Merged PR [#11](https://github.com/JakyeRU/Larascord/pull/11) in [JakyeRU/Larascord](https://github.com/JakyeRU/Larascord)
-4. 💪 Opened PR [#11](https://github.com/JakyeRU/Larascord/pull/11) in [JakyeRU/Larascord](https://github.com/JakyeRU/Larascord)
-5. 🎉 Merged PR [#10](https://github.com/JakyeRU/Larascord/pull/10) in [JakyeRU/Larascord](https://github.com/JakyeRU/Larascord)
-<!--END_SECTION:activity-->
