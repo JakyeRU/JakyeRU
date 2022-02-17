@@ -121,7 +121,7 @@
   </a>
   
   <a href="https://phpunit.de/">
-    <img src="https://scule.org/assets/badges/phpunit.svg" alt="PHPUnit">
+    <img src="assets/PHPUNIT.svg" alt="PHPUnit">
   </a>
   
 </div>
