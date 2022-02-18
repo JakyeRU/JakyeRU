@@ -78,11 +78,11 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
   
-  <a href="https://github.com/">
+  <a href="https://github.com/JakyeRU">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   
-  <a href="https://gitlab.com/">
+  <a href="https://gitlab.com/JakyeRU">
     <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
   </a>
   
