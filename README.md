@@ -179,3 +179,5 @@
   </a>
   
 </div>
+
+<a href="https://jakye.me" target="_blank"><img src="https://github.com/JakyeRU/JakyeRU/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
