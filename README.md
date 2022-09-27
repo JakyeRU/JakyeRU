@@ -41,8 +41,10 @@
 <br>
 
 # Personal Projects
-<a href="https://github.com/JakyeRU/Larascord">Larascord</a> - Larascord is a package that allows you to authenticate users in your Laravel application using Discord.\
+<a href="https://github.com/JakyeRU/Larascord">Larascord</a> - Larascord is a package that allows you to authenticate users in your Laravel application using Discord.
+
 <a href="https://github.com/JakyeRU/SteamIdler">SteamIdler</a> - Steam Idler is a very light idling script, built in Node.js, for boosting playtime on Steam, without using computer resources.
+
 <a href="https://github.com/JakyeRU/instaloader">Instaloader</a> - Instaloader is a wrapper of instaloader/instaloader (a tool to download pictures (or videos) along with their captions and other metadata from Instagram) that aims to make it easier to use in a convenient and user-friendly way.
 
 <br>
