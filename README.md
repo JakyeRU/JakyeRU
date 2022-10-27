@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Jakye</h1>
 <h3 align="center">I'm a full-stack Web Developer from Romania</h3>
+<h4 align="center"><a href="mailto:jakye@jakye.me">jakye@jakye.me</a></h2>
 
 ## Backend
 
