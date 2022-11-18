@@ -42,13 +42,22 @@
 <br>
 
 # Personal Projects
+## PHP
 <a href="https://github.com/JakyeRU/Larascord">Larascord</a> - Larascord is a package that allows you to authenticate users in your Laravel application using Discord.
 
 <a href="https://github.com/JakyeRU/snowflake">Snowflake</a> -  Snowflake is a package for Laravel that allows Twitter's 64 bit snowflake to be used as primary identifier for models. 
 
+## JavaScript
+
 <a href="https://github.com/JakyeRU/SteamIdler">SteamIdler</a> - Steam Idler is a very light idling script, built in Node.js, for boosting playtime on Steam, without using computer resources.
 
+## Python
+
 <a href="https://github.com/JakyeRU/instaloader">Instaloader</a> - Instaloader is a wrapper of <a href="https://github.com/instaloader/instaloader">instaloader/instaloader</a> (a tool to download pictures (or videos) along with their captions and other metadata from Instagram) that aims to make it easier to use in a convenient and user-friendly way.
+
+## C#
+
+<a href="https://github.com/JakyeRU/XAMPPFixer">XAMPPFixer</a> - XAMPP Fixer is a script created in C# which fixes the common "Error: MySQL shutdown unexpectedly." error from XAMPP.
 
 <br>
 
