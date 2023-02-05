@@ -41,7 +41,10 @@
 ## PHP
 <a href="https://github.com/JakyeRU/Larascord">Larascord</a> - Larascord is a package that allows you to authenticate users in your Laravel application using Discord.
 
-<a href="https://github.com/JakyeRU/snowflake">Snowflake</a> -  Snowflake is a package for Laravel that allows Twitter's 64 bit snowflake to be used as primary identifier for models. 
+<a href="https://github.com/JakyeRU/snowflake">Snowflake</a> - Snowflake is a package for Laravel that allows Twitter's 64 bit snowflake to be used as primary identifier for models.
+
+
+<a href="https://github.com/JakyeRU/Laravel-Shell">Laravel-Shell</a> - Laravel-Shell adds a terminal interface to your web application, allowing you to run shell commands directly from your browser.
 
 ## JavaScript
 
